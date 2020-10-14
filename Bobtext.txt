@@ -1,1 +1,5 @@
+ HEAD
 Testing Bobs commit (replicating team scenario), oh no, not again
+
+Testing Bobs commit (replicating team scenario), editing Bobs file.
+ 1bab3b65dceffe685a6ff7266e3a359324886762
