@@ -1,1 +1,1 @@
-Commit testing from command line
+Commit testing from command line, edit for test
