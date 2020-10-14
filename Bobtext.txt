@@ -1,1 +1,1 @@
-Testing Bobs commit (replicating team scenario)
+Testing Bobs commit (replicating team scenario), editing Bobs file.
